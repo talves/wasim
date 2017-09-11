@@ -2,5 +2,3 @@ baseURL = "/"
 languageCode = "en-us"
 title = "Wasim Ullah"
 theme ="WasimUllah"
-[context.production.environment]
-  HUGO_VERSION ="0.27"
